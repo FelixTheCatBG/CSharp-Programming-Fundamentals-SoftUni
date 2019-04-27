@@ -1,1 +1,0 @@
-c:\users\illmate\documents\visual studio 2013\DefiningClasseseEx\01.PersonClass\01.PersonClass\bin\Debug\01.PersonClass.exe.config
