@@ -1,6 +1,0 @@
-c:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\Check123\Check123\bin\Debug\Check123.exe.config
-c:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\Check123\Check123\obj\Debug\Check123.exe
-c:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\Check123\Check123\obj\Debug\Check123.pdb
-c:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\Check123\Check123\bin\Debug\Check123.exe
-c:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\Check123\Check123\bin\Debug\Check123.pdb
-c:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\Check123\Check123\obj\Debug\03.BankAccountLast.csprojResolveAssemblyReference.cache
