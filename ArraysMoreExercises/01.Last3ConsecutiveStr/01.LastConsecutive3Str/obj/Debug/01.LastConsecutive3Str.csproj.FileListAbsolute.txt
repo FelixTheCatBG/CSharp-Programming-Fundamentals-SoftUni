@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\01.Last3ConsecutiveStr\01.LastConsecutive3Str\bin\Debug\01.LastConsecutive3Str.exe.config

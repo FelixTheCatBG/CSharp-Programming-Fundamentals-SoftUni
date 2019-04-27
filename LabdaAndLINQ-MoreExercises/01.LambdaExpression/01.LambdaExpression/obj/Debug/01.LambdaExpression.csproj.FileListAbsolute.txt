@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-MoreExercises\01.LambdaExpression\01.LambdaExpression\bin\Debug\01.LambdaExpression.exe.config
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-MoreExercises\01.LambdaExpression\01.LambdaExpression\bin\Debug\01.LambdaExpression.exe
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-MoreExercises\01.LambdaExpression\01.LambdaExpression\bin\Debug\01.LambdaExpression.pdb
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-MoreExercises\01.LambdaExpression\01.LambdaExpression\obj\Debug\01.LambdaExpression.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-MoreExercises\01.LambdaExpression\01.LambdaExpression\obj\Debug\01.LambdaExpression.exe
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-MoreExercises\01.LambdaExpression\01.LambdaExpression\obj\Debug\01.LambdaExpression.pdb

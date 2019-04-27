@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\06.EqualSequenceOfElements\06.EqualSequenceOfElements\bin\Debug\06.EqualSequenceOfElements.exe.config

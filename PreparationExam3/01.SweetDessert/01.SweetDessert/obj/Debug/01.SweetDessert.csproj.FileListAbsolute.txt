@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\01.SweetDessert\01.SweetDessert\bin\Debug\01.SweetDessert.exe.config
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\01.SweetDessert\01.SweetDessert\bin\Debug\01.SweetDessert.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\01.SweetDessert\01.SweetDessert\bin\Debug\01.SweetDessert.pdb
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\01.SweetDessert\01.SweetDessert\obj\Debug\01.SweetDessert.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\01.SweetDessert\01.SweetDessert\obj\Debug\01.SweetDessert.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\01.SweetDessert\01.SweetDessert\obj\Debug\01.SweetDessert.pdb

@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\02.AverageCharacterDelimiter\02.AverageCharacterDelimiter\bin\Debug\02.AverageCharacterDelimiter.exe.config
+C:\Users\illmate\Documents\Visual Studio 2013\ArrayListsAlgoritms-Exercises\02.AverageCharacterDelimiter\02.AverageCharacterDelimiter\bin\Debug\02.AverageCharacterDelimiter.exe
+C:\Users\illmate\Documents\Visual Studio 2013\ArrayListsAlgoritms-Exercises\02.AverageCharacterDelimiter\02.AverageCharacterDelimiter\bin\Debug\02.AverageCharacterDelimiter.pdb
+C:\Users\illmate\Documents\Visual Studio 2013\ArrayListsAlgoritms-Exercises\02.AverageCharacterDelimiter\02.AverageCharacterDelimiter\obj\Debug\02.AverageCharacterDelimiter.csprojResolveAssemblyReference.cache
+C:\Users\illmate\Documents\Visual Studio 2013\ArrayListsAlgoritms-Exercises\02.AverageCharacterDelimiter\02.AverageCharacterDelimiter\obj\Debug\02.AverageCharacterDelimiter.exe
+C:\Users\illmate\Documents\Visual Studio 2013\ArrayListsAlgoritms-Exercises\02.AverageCharacterDelimiter\02.AverageCharacterDelimiter\obj\Debug\02.AverageCharacterDelimiter.pdb

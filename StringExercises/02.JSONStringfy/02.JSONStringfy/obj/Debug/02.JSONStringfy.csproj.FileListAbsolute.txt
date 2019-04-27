@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.JSONStringfy\02.JSONStringfy\bin\Debug\02.JSONStringfy.exe.config
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.JSONStringfy\02.JSONStringfy\bin\Debug\02.JSONStringfy.exe
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.JSONStringfy\02.JSONStringfy\bin\Debug\02.JSONStringfy.pdb
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.JSONStringfy\02.JSONStringfy\obj\Debug\02.JSONStringfy.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.JSONStringfy\02.JSONStringfy\obj\Debug\02.JSONStringfy.exe
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.JSONStringfy\02.JSONStringfy\obj\Debug\02.JSONStringfy.pdb

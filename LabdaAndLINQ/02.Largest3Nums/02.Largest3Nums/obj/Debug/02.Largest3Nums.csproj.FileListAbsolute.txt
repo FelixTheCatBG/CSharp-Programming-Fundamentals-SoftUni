@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ\02.Largest3Nums\02.Largest3Nums\bin\Debug\02.Largest3Nums.exe.config

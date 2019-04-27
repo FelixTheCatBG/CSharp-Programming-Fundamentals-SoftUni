@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.CountStringOccurences\02.CountStringOccurences\bin\Debug\02.CountStringOccurences.exe.config
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.CountStringOccurences\02.CountStringOccurences\bin\Debug\02.CountStringOccurences.exe
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.CountStringOccurences\02.CountStringOccurences\bin\Debug\02.CountStringOccurences.pdb
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.CountStringOccurences\02.CountStringOccurences\obj\Debug\02.CountStringOccurences.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.CountStringOccurences\02.CountStringOccurences\obj\Debug\02.CountStringOccurences.exe
+c:\users\illmate\documents\visual studio 2013\StringExercises\02.CountStringOccurences\02.CountStringOccurences\obj\Debug\02.CountStringOccurences.pdb

@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\02.IntegerInsertation\02.IntegerInsertation\bin\Debug\02.IntegerInsertation.exe.config
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\02.IntegerInsertation\02.IntegerInsertation\bin\Debug\02.IntegerInsertation.exe
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\02.IntegerInsertation\02.IntegerInsertation\bin\Debug\02.IntegerInsertation.pdb
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\02.IntegerInsertation\02.IntegerInsertation\obj\Debug\02.IntegerInsertation.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\02.IntegerInsertation\02.IntegerInsertation\obj\Debug\02.IntegerInsertation.exe
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\02.IntegerInsertation\02.IntegerInsertation\obj\Debug\02.IntegerInsertation.pdb

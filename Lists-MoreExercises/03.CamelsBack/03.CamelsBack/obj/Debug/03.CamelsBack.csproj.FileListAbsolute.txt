@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\03.CamelsBack\03.CamelsBack\bin\Debug\03.CamelsBack.exe.config
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\03.CamelsBack\03.CamelsBack\bin\Debug\03.CamelsBack.exe
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\03.CamelsBack\03.CamelsBack\bin\Debug\03.CamelsBack.pdb
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\03.CamelsBack\03.CamelsBack\obj\Debug\03.CamelsBack.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\03.CamelsBack\03.CamelsBack\obj\Debug\03.CamelsBack.exe
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\03.CamelsBack\03.CamelsBack\obj\Debug\03.CamelsBack.pdb

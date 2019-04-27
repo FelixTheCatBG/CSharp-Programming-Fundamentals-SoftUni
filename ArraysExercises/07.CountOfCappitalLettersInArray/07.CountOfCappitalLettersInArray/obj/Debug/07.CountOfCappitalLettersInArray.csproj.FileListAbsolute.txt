@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\07.CountOfCappitalLettersInArray\07.CountOfCappitalLettersInArray\bin\Debug\07.CountOfCappitalLettersInArray.exe.config

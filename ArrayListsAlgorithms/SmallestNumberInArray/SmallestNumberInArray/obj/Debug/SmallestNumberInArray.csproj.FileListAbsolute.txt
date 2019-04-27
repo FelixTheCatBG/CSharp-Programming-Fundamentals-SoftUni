@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms\SmallestNumberInArray\SmallestNumberInArray\bin\Debug\SmallestNumberInArray.exe.config
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms\SmallestNumberInArray\SmallestNumberInArray\bin\Debug\SmallestNumberInArray.exe
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms\SmallestNumberInArray\SmallestNumberInArray\bin\Debug\SmallestNumberInArray.pdb
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms\SmallestNumberInArray\SmallestNumberInArray\obj\Debug\SmallestNumberInArray.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms\SmallestNumberInArray\SmallestNumberInArray\obj\Debug\SmallestNumberInArray.exe
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms\SmallestNumberInArray\SmallestNumberInArray\obj\Debug\SmallestNumberInArray.pdb

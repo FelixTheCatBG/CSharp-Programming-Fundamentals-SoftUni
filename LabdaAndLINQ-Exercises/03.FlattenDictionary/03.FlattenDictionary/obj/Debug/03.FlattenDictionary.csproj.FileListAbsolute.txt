@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\03.FlattenDictionary\03.FlattenDictionary\bin\Debug\03.FlattenDictionary.exe.config
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\03.FlattenDictionary\03.FlattenDictionary\bin\Debug\03.FlattenDictionary.exe
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\03.FlattenDictionary\03.FlattenDictionary\bin\Debug\03.FlattenDictionary.pdb
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\03.FlattenDictionary\03.FlattenDictionary\obj\Debug\03.FlattenDictionary.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\03.FlattenDictionary\03.FlattenDictionary\obj\Debug\03.FlattenDictionary.exe
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\03.FlattenDictionary\03.FlattenDictionary\obj\Debug\03.FlattenDictionary.pdb

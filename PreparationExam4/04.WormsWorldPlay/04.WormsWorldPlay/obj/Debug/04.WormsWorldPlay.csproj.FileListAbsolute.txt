@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.WormsWorldPlay\04.WormsWorldPlay\bin\Debug\04.WormsWorldPlay.exe.config
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.WormsWorldPlay\04.WormsWorldPlay\bin\Debug\04.WormsWorldPlay.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.WormsWorldPlay\04.WormsWorldPlay\bin\Debug\04.WormsWorldPlay.pdb
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.WormsWorldPlay\04.WormsWorldPlay\obj\Debug\04.WormsWorldPlay.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.WormsWorldPlay\04.WormsWorldPlay\obj\Debug\04.WormsWorldPlay.pdb
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.WormsWorldPlay\04.WormsWorldPlay\obj\Debug\04.WormsWorldPlay.csprojResolveAssemblyReference.cache

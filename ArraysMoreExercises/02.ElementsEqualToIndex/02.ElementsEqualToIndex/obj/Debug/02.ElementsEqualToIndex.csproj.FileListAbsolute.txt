@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\02.ElementsEqualToIndex\02.ElementsEqualToIndex\bin\Debug\02.ElementsEqualToIndex.exe.config
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\02.ElementsEqualToIndex\02.ElementsEqualToIndex\bin\Debug\02.ElementsEqualToIndex.exe
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\02.ElementsEqualToIndex\02.ElementsEqualToIndex\bin\Debug\02.ElementsEqualToIndex.pdb
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\02.ElementsEqualToIndex\02.ElementsEqualToIndex\obj\Debug\02.ElementsEqualToIndex.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\02.ElementsEqualToIndex\02.ElementsEqualToIndex\obj\Debug\02.ElementsEqualToIndex.exe
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\02.ElementsEqualToIndex\02.ElementsEqualToIndex\obj\Debug\02.ElementsEqualToIndex.pdb

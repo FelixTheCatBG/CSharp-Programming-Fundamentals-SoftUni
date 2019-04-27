@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\06.TearListInnHalf\06.TearListInnHalf\bin\Debug\06.TearListInnHalf.exe.config
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\06.TearListInnHalf\06.TearListInnHalf\bin\Debug\06.TearListInnHalf.exe
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\06.TearListInnHalf\06.TearListInnHalf\bin\Debug\06.TearListInnHalf.pdb
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\06.TearListInnHalf\06.TearListInnHalf\obj\Debug\06.TearListInnHalf.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\06.TearListInnHalf\06.TearListInnHalf\obj\Debug\06.TearListInnHalf.exe
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\06.TearListInnHalf\06.TearListInnHalf\obj\Debug\06.TearListInnHalf.pdb

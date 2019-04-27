@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.CommandInterpreter\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.exe.config
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.CommandInterpreter\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.CommandInterpreter\02.CommandInterpreter\bin\Debug\02.CommandInterpreter.pdb
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.CommandInterpreter\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.CommandInterpreter\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.pdb
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.CommandInterpreter\02.CommandInterpreter\obj\Debug\02.CommandInterpreter.csprojResolveAssemblyReference.cache

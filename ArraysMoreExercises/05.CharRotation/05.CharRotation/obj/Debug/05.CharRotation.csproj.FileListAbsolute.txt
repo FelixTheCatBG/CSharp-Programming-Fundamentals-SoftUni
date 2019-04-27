@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\05.CharRotation\05.CharRotation\bin\Debug\05.CharRotation.exe.config
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\05.CharRotation\05.CharRotation\bin\Debug\05.CharRotation.exe
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\05.CharRotation\05.CharRotation\bin\Debug\05.CharRotation.pdb
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\05.CharRotation\05.CharRotation\obj\Debug\05.CharRotation.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\05.CharRotation\05.CharRotation\obj\Debug\05.CharRotation.exe
+c:\users\illmate\documents\visual studio 2013\ArraysMoreExercises\05.CharRotation\05.CharRotation\obj\Debug\05.CharRotation.pdb

@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\03.ForumTopics\03.ForumTopics\bin\Debug\03.ForumTopics.exe.config
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\03.ForumTopics\03.ForumTopics\bin\Debug\03.ForumTopics.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\03.ForumTopics\03.ForumTopics\bin\Debug\03.ForumTopics.pdb
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\03.ForumTopics\03.ForumTopics\obj\Debug\03.ForumTopics.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\03.ForumTopics\03.ForumTopics\obj\Debug\03.ForumTopics.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\03.ForumTopics\03.ForumTopics\obj\Debug\03.ForumTopics.pdb

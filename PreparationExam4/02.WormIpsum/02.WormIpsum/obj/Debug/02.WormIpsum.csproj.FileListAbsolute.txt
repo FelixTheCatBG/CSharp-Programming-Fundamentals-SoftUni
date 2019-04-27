@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.WormIpsum\02.WormIpsum\bin\Debug\02.WormIpsum.exe.config
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.WormIpsum\02.WormIpsum\bin\Debug\02.WormIpsum.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.WormIpsum\02.WormIpsum\bin\Debug\02.WormIpsum.pdb
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.WormIpsum\02.WormIpsum\obj\Debug\02.WormIpsum.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.WormIpsum\02.WormIpsum\obj\Debug\02.WormIpsum.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.WormIpsum\02.WormIpsum\obj\Debug\02.WormIpsum.pdb

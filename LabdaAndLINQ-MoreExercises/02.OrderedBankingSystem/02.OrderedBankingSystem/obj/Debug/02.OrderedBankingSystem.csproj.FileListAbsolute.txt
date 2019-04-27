@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-MoreExercises\02.OrderedBankingSystem\02.OrderedBankingSystem\bin\Debug\02.OrderedBankingSystem.exe.config

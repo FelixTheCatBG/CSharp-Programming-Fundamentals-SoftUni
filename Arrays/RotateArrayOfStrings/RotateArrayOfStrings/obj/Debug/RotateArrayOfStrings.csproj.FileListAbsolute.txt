@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Arrays\RotateArrayOfStrings\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe.config
+c:\users\illmate\documents\visual studio 2013\Arrays\RotateArrayOfStrings\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe
+c:\users\illmate\documents\visual studio 2013\Arrays\RotateArrayOfStrings\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.pdb
+c:\users\illmate\documents\visual studio 2013\Arrays\RotateArrayOfStrings\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Arrays\RotateArrayOfStrings\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.exe
+c:\users\illmate\documents\visual studio 2013\Arrays\RotateArrayOfStrings\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.pdb

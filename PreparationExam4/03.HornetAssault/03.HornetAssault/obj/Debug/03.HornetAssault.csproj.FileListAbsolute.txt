@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.HornetAssault\03.HornetAssault\bin\Debug\03.HornetAssault.exe.config
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.HornetAssault\03.HornetAssault\bin\Debug\03.HornetAssault.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.HornetAssault\03.HornetAssault\bin\Debug\03.HornetAssault.pdb
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.HornetAssault\03.HornetAssault\obj\Debug\03.HornetAssault.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.HornetAssault\03.HornetAssault\obj\Debug\03.HornetAssault.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.HornetAssault\03.HornetAssault\obj\Debug\03.HornetAssault.pdb

@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\StringExercises\05.CapitalizeWords\05.CapitalizeWords\bin\Debug\05.CapitalizeWords.exe.config
+C:\Users\illmate\documents\visual studio 2013\StringExercises\05.CapitalizeWords\05.CapitalizeWords\bin\Debug\05.CapitalizeWords.exe
+C:\Users\illmate\documents\visual studio 2013\StringExercises\05.CapitalizeWords\05.CapitalizeWords\bin\Debug\05.CapitalizeWords.pdb
+C:\Users\illmate\documents\visual studio 2013\StringExercises\05.CapitalizeWords\05.CapitalizeWords\obj\Debug\05.CapitalizeWords.csprojResolveAssemblyReference.cache
+C:\Users\illmate\documents\visual studio 2013\StringExercises\05.CapitalizeWords\05.CapitalizeWords\obj\Debug\05.CapitalizeWords.exe
+C:\Users\illmate\documents\visual studio 2013\StringExercises\05.CapitalizeWords\05.CapitalizeWords\obj\Debug\05.CapitalizeWords.pdb

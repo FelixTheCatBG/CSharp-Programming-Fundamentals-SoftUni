@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ\04.FoldAndSum\04.FoldAndSum\bin\Debug\04.FoldAndSum.exe.config

@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\StringExercises\04.SentenceSplit\04.SentenceSplit\bin\Debug\04.SentenceSplit.exe.config

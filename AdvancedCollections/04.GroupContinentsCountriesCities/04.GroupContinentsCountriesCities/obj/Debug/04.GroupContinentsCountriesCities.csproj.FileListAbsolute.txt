@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\04.GroupContinentsCountriesCities\04.GroupContinentsCountriesCities\bin\Debug\04.GroupContinentsCountriesCities.exe.config
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\04.GroupContinentsCountriesCities\04.GroupContinentsCountriesCities\bin\Debug\04.GroupContinentsCountriesCities.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\04.GroupContinentsCountriesCities\04.GroupContinentsCountriesCities\bin\Debug\04.GroupContinentsCountriesCities.pdb
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\04.GroupContinentsCountriesCities\04.GroupContinentsCountriesCities\obj\Debug\04.GroupContinentsCountriesCities.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\04.GroupContinentsCountriesCities\04.GroupContinentsCountriesCities\obj\Debug\04.GroupContinentsCountriesCities.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\04.GroupContinentsCountriesCities\04.GroupContinentsCountriesCities\obj\Debug\04.GroupContinentsCountriesCities.pdb

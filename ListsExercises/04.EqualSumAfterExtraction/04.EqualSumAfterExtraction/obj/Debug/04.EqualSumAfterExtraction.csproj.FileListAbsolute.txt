@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\04.EqualSumAfterExtraction\04.EqualSumAfterExtraction\bin\Debug\04.EqualSumAfterExtraction.exe.config
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\04.EqualSumAfterExtraction\04.EqualSumAfterExtraction\bin\Debug\04.EqualSumAfterExtraction.exe
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\04.EqualSumAfterExtraction\04.EqualSumAfterExtraction\bin\Debug\04.EqualSumAfterExtraction.pdb
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\04.EqualSumAfterExtraction\04.EqualSumAfterExtraction\obj\Debug\04.EqualSumAfterExtraction.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\04.EqualSumAfterExtraction\04.EqualSumAfterExtraction\obj\Debug\04.EqualSumAfterExtraction.exe
+c:\users\illmate\documents\visual studio 2013\Lists-Exercises\04.EqualSumAfterExtraction\04.EqualSumAfterExtraction\obj\Debug\04.EqualSumAfterExtraction.pdb

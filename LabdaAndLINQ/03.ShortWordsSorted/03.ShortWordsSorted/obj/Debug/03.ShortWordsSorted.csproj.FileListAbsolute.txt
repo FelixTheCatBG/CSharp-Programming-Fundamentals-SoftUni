@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ\03.ShortWordsSorted\03.ShortWordsSorted\bin\Debug\03.ShortWordsSorted.exe.config

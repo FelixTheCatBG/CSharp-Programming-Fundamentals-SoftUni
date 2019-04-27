@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\DefiningClasses\Check123\Check123\bin\Debug\Check123.exe.config
+c:\users\illmate\documents\visual studio 2013\DefiningClasses\Check123\Check123\bin\Debug\Check123.exe
+c:\users\illmate\documents\visual studio 2013\DefiningClasses\Check123\Check123\bin\Debug\Check123.pdb
+c:\users\illmate\documents\visual studio 2013\DefiningClasses\Check123\Check123\obj\Debug\Check123.exe
+c:\users\illmate\documents\visual studio 2013\DefiningClasses\Check123\Check123\obj\Debug\Check123.pdb
+c:\users\illmate\documents\visual studio 2013\DefiningClasses\Check123\Check123\obj\Debug\Check123.csprojResolveAssemblyReference.cache

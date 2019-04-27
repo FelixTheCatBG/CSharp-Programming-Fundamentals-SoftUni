@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.FootballLeague\03.FootballLeague\bin\Debug\03.FootballLeague.exe.config
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.FootballLeague\03.FootballLeague\bin\Debug\03.FootballLeague.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.FootballLeague\03.FootballLeague\bin\Debug\03.FootballLeague.pdb
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.FootballLeague\03.FootballLeague\obj\Debug\03.FootballLeague.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.FootballLeague\03.FootballLeague\obj\Debug\03.FootballLeague.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.FootballLeague\03.FootballLeague\obj\Debug\03.FootballLeague.pdb

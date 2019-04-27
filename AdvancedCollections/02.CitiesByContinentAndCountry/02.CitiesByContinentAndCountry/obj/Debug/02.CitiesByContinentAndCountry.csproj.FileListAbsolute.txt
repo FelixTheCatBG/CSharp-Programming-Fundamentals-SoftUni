@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\02.CitiesByContinentAndCountry\02.CitiesByContinentAndCountry\bin\Debug\02.CitiesByContinentAndCountry.exe.config
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\02.CitiesByContinentAndCountry\02.CitiesByContinentAndCountry\bin\Debug\02.CitiesByContinentAndCountry.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\02.CitiesByContinentAndCountry\02.CitiesByContinentAndCountry\bin\Debug\02.CitiesByContinentAndCountry.pdb
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\02.CitiesByContinentAndCountry\02.CitiesByContinentAndCountry\obj\Debug\02.CitiesByContinentAndCountry.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\02.CitiesByContinentAndCountry\02.CitiesByContinentAndCountry\obj\Debug\02.CitiesByContinentAndCountry.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\02.CitiesByContinentAndCountry\02.CitiesByContinentAndCountry\obj\Debug\02.CitiesByContinentAndCountry.pdb

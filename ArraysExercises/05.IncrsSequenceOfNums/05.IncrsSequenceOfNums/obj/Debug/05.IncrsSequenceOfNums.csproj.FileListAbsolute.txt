@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.IncrsSequenceOfNums\05.IncrsSequenceOfNums\bin\Debug\05.IncrsSequenceOfNums.exe.config
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.IncrsSequenceOfNums\05.IncrsSequenceOfNums\bin\Debug\05.IncrsSequenceOfNums.exe
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.IncrsSequenceOfNums\05.IncrsSequenceOfNums\bin\Debug\05.IncrsSequenceOfNums.pdb
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.IncrsSequenceOfNums\05.IncrsSequenceOfNums\obj\Debug\05.IncrsSequenceOfNums.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.IncrsSequenceOfNums\05.IncrsSequenceOfNums\obj\Debug\05.IncrsSequenceOfNums.exe
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.IncrsSequenceOfNums\05.IncrsSequenceOfNums\obj\Debug\05.IncrsSequenceOfNums.pdb

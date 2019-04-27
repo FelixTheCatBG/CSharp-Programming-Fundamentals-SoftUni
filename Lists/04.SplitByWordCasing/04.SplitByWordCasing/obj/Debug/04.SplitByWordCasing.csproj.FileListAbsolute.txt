@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Lists\04.SplitByWordCasing\04.SplitByWordCasing\bin\Debug\04.SplitByWordCasing.exe.config
+c:\users\illmate\documents\visual studio 2013\Lists\04.SplitByWordCasing\04.SplitByWordCasing\bin\Debug\04.SplitByWordCasing.exe
+c:\users\illmate\documents\visual studio 2013\Lists\04.SplitByWordCasing\04.SplitByWordCasing\bin\Debug\04.SplitByWordCasing.pdb
+c:\users\illmate\documents\visual studio 2013\Lists\04.SplitByWordCasing\04.SplitByWordCasing\obj\Debug\04.SplitByWordCasing.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Lists\04.SplitByWordCasing\04.SplitByWordCasing\obj\Debug\04.SplitByWordCasing.exe
+c:\users\illmate\documents\visual studio 2013\Lists\04.SplitByWordCasing\04.SplitByWordCasing\obj\Debug\04.SplitByWordCasing.pdb

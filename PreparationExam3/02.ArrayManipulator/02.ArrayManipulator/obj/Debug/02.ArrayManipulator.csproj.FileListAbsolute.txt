@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.ArrayManipulator\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.exe.config
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.ArrayManipulator\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.ArrayManipulator\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.pdb
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.ArrayManipulator\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.ArrayManipulator\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\02.ArrayManipulator\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.pdb

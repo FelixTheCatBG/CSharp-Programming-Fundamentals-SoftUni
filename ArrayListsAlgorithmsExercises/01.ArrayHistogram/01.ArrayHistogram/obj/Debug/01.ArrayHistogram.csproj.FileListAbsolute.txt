@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ArrayHistogram\01.ArrayHistogram\bin\Debug\01.ArrayHistogram.exe.config
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ArrayHistogram\01.ArrayHistogram\bin\Debug\01.ArrayHistogram.exe
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ArrayHistogram\01.ArrayHistogram\bin\Debug\01.ArrayHistogram.pdb
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ArrayHistogram\01.ArrayHistogram\obj\Debug\01.ArrayHistogram.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ArrayHistogram\01.ArrayHistogram\obj\Debug\01.ArrayHistogram.exe
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ArrayHistogram\01.ArrayHistogram\obj\Debug\01.ArrayHistogram.pdb

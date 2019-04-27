@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\05.UserLogins\05.UserLogins\bin\Debug\05.UserLogins.exe.config
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\05.UserLogins\05.UserLogins\bin\Debug\05.UserLogins.exe
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\05.UserLogins\05.UserLogins\bin\Debug\05.UserLogins.pdb
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\05.UserLogins\05.UserLogins\obj\Debug\05.UserLogins.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\05.UserLogins\05.UserLogins\obj\Debug\05.UserLogins.exe
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\05.UserLogins\05.UserLogins\obj\Debug\05.UserLogins.pdb

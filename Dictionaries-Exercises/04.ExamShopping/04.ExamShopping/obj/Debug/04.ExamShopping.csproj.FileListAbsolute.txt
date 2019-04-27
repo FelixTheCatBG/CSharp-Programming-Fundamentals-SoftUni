@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\04.ExamShopping\04.ExamShopping\bin\Debug\04.ExamShopping.exe.config
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\04.ExamShopping\04.ExamShopping\bin\Debug\04.ExamShopping.exe
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\04.ExamShopping\04.ExamShopping\bin\Debug\04.ExamShopping.pdb
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\04.ExamShopping\04.ExamShopping\obj\Debug\04.ExamShopping.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\04.ExamShopping\04.ExamShopping\obj\Debug\04.ExamShopping.exe
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\04.ExamShopping\04.ExamShopping\obj\Debug\04.ExamShopping.pdb

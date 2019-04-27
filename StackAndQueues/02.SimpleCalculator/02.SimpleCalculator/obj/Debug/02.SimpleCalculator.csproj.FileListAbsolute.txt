@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\StackAndQueues\02.SimpleCalculator\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe.config

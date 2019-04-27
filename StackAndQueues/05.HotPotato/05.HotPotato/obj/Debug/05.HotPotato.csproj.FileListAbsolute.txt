@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\StackAndQueues\05.HotPotato\05.HotPotato\bin\Debug\05.HotPotato.exe.config

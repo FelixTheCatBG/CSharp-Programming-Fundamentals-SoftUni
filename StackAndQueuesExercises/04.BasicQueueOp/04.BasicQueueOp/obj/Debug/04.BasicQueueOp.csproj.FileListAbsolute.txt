@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\StackAndQueuesExercises2\04.BasicQueueOp\04.BasicQueueOp\bin\Debug\04.BasicQueueOp.exe.config

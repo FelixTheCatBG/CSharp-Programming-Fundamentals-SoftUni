@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\02.Dict-Ref-Advanced\02.Dict-Ref-Advanced\bin\Debug\02.Dict-Ref-Advanced.exe.config
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\02.Dict-Ref-Advanced\02.Dict-Ref-Advanced\bin\Debug\02.Dict-Ref-Advanced.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\02.Dict-Ref-Advanced\02.Dict-Ref-Advanced\bin\Debug\02.Dict-Ref-Advanced.pdb
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\02.Dict-Ref-Advanced\02.Dict-Ref-Advanced\obj\Debug\02.Dict-Ref-Advanced.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\02.Dict-Ref-Advanced\02.Dict-Ref-Advanced\obj\Debug\02.Dict-Ref-Advanced.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\02.Dict-Ref-Advanced\02.Dict-Ref-Advanced\obj\Debug\02.Dict-Ref-Advanced.pdb

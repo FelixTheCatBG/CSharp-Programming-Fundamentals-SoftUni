@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\03.SortArrayOfStrings\03.SortArrayOfStrings\bin\Debug\03.SortArrayOfStrings.exe.config
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\03.SortArrayOfStrings\03.SortArrayOfStrings\bin\Debug\03.SortArrayOfStrings.exe
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\03.SortArrayOfStrings\03.SortArrayOfStrings\bin\Debug\03.SortArrayOfStrings.pdb
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\03.SortArrayOfStrings\03.SortArrayOfStrings\obj\Debug\03.SortArrayOfStrings.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\03.SortArrayOfStrings\03.SortArrayOfStrings\obj\Debug\03.SortArrayOfStrings.exe
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\03.SortArrayOfStrings\03.SortArrayOfStrings\obj\Debug\03.SortArrayOfStrings.pdb

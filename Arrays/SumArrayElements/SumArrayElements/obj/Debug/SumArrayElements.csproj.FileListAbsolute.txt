@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Arrays\SumArrayElements\SumArrayElements\bin\Debug\SumArrayElements.exe.config
+c:\users\illmate\documents\visual studio 2013\Arrays\SumArrayElements\SumArrayElements\bin\Debug\SumArrayElements.exe
+c:\users\illmate\documents\visual studio 2013\Arrays\SumArrayElements\SumArrayElements\bin\Debug\SumArrayElements.pdb
+c:\users\illmate\documents\visual studio 2013\Arrays\SumArrayElements\SumArrayElements\obj\Debug\SumArrayElements.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Arrays\SumArrayElements\SumArrayElements\obj\Debug\SumArrayElements.exe
+c:\users\illmate\documents\visual studio 2013\Arrays\SumArrayElements\SumArrayElements\obj\Debug\SumArrayElements.pdb

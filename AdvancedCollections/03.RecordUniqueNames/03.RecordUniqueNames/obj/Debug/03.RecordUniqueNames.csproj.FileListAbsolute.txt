@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\03.RecordUniqueNames\03.RecordUniqueNames\bin\Debug\03.RecordUniqueNames.exe.config

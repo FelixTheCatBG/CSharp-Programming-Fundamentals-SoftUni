@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\03.MixedPhones\03.MixedPhones\bin\Debug\03.MixedPhones.exe.config
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\03.MixedPhones\03.MixedPhones\bin\Debug\03.MixedPhones.exe
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\03.MixedPhones\03.MixedPhones\bin\Debug\03.MixedPhones.pdb
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\03.MixedPhones\03.MixedPhones\obj\Debug\03.MixedPhones.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\03.MixedPhones\03.MixedPhones\obj\Debug\03.MixedPhones.exe
+c:\users\illmate\documents\visual studio 2013\Dictionaries-Exercises\03.MixedPhones\03.MixedPhones\obj\Debug\03.MixedPhones.pdb

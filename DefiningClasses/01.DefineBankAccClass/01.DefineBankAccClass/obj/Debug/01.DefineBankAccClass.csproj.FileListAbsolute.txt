@@ -1,0 +1,6 @@
+c:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\01.DefineBankAccClass\01.DefineBankAccClass\obj\Debug\01.DefineBankAccClass.csprojResolveAssemblyReference.cache
+C:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\01.DefineBankAccClass\01.DefineBankAccClass\bin\Debug\01.DefineBankAccClass.dll.config
+C:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\01.DefineBankAccClass\01.DefineBankAccClass\bin\Debug\01.DefineBankAccClass.dll
+C:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\01.DefineBankAccClass\01.DefineBankAccClass\bin\Debug\01.DefineBankAccClass.pdb
+C:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\01.DefineBankAccClass\01.DefineBankAccClass\obj\Debug\01.DefineBankAccClass.dll
+C:\Users\illmate\Documents\Visual Studio 2013\DefiningClasses\01.DefineBankAccClass\01.DefineBankAccClass\obj\Debug\01.DefineBankAccClass.pdb

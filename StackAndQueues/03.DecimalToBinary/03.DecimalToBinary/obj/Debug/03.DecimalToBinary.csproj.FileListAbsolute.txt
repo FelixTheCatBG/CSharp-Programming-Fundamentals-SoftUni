@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\StackAndQueues\03.DecimalToBinary\03.DecimalToBinary\bin\Debug\03.DecimalToBinary.exe.config

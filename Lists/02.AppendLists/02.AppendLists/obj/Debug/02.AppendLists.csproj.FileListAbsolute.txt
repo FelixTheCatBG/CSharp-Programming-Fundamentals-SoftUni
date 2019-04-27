@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Lists\02.AppendLists\02.AppendLists\bin\Debug\02.AppendLists.exe.config
+c:\users\illmate\documents\visual studio 2013\Lists\02.AppendLists\02.AppendLists\bin\Debug\02.AppendLists.exe
+c:\users\illmate\documents\visual studio 2013\Lists\02.AppendLists\02.AppendLists\bin\Debug\02.AppendLists.pdb
+c:\users\illmate\documents\visual studio 2013\Lists\02.AppendLists\02.AppendLists\obj\Debug\02.AppendLists.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Lists\02.AppendLists\02.AppendLists\obj\Debug\02.AppendLists.exe
+c:\users\illmate\documents\visual studio 2013\Lists\02.AppendLists\02.AppendLists\obj\Debug\02.AppendLists.pdb

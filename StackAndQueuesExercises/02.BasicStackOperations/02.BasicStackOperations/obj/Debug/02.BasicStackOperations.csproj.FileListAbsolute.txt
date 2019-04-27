@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\StackAndQueuesExercises2\02.BasicStackOperations\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe.config

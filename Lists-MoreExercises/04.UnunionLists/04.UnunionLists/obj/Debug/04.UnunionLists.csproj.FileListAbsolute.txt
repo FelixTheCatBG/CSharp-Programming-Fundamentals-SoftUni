@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\04.UnunionLists\04.UnunionLists\bin\Debug\04.UnunionLists.exe.config
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\04.UnunionLists\04.UnunionLists\bin\Debug\04.UnunionLists.exe
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\04.UnunionLists\04.UnunionLists\bin\Debug\04.UnunionLists.pdb
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\04.UnunionLists\04.UnunionLists\obj\Debug\04.UnunionLists.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\04.UnunionLists\04.UnunionLists\obj\Debug\04.UnunionLists.exe
+c:\users\illmate\documents\visual studio 2013\Lists-MoreExercises\04.UnunionLists\04.UnunionLists\obj\Debug\04.UnunionLists.pdb

@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\01.AverageStudentGrades\01.AverageStudentGrades\bin\Debug\01.AverageStudentGrades.exe.config
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\01.AverageStudentGrades\01.AverageStudentGrades\bin\Debug\01.AverageStudentGrades.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\01.AverageStudentGrades\01.AverageStudentGrades\bin\Debug\01.AverageStudentGrades.pdb
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\01.AverageStudentGrades\01.AverageStudentGrades\obj\Debug\01.AverageStudentGrades.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\01.AverageStudentGrades\01.AverageStudentGrades\obj\Debug\01.AverageStudentGrades.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections\01.AverageStudentGrades\01.AverageStudentGrades\obj\Debug\01.AverageStudentGrades.pdb

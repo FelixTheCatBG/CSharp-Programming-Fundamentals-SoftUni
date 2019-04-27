@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.AllNumsIncrInArray\05.AllNumsIncrInArray\bin\Debug\05.AllNumsIncrInArray.exe.config
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.AllNumsIncrInArray\05.AllNumsIncrInArray\bin\Debug\05.AllNumsIncrInArray.exe
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.AllNumsIncrInArray\05.AllNumsIncrInArray\bin\Debug\05.AllNumsIncrInArray.pdb
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.AllNumsIncrInArray\05.AllNumsIncrInArray\obj\Debug\05.AllNumsIncrInArray.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.AllNumsIncrInArray\05.AllNumsIncrInArray\obj\Debug\05.AllNumsIncrInArray.exe
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\05.AllNumsIncrInArray\05.AllNumsIncrInArray\obj\Debug\05.AllNumsIncrInArray.pdb

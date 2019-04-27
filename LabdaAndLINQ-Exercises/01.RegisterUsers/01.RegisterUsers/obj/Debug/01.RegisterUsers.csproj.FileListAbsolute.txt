@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\01.RegisterUsers\01.RegisterUsers\bin\Debug\01.RegisterUsers.exe.config
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\01.RegisterUsers\01.RegisterUsers\obj\Debug\01.RegisterUsers.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\01.RegisterUsers\01.RegisterUsers\bin\Debug\01.RegisterUsers.exe
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\01.RegisterUsers\01.RegisterUsers\bin\Debug\01.RegisterUsers.pdb
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\01.RegisterUsers\01.RegisterUsers\obj\Debug\01.RegisterUsers.exe
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\01.RegisterUsers\01.RegisterUsers\obj\Debug\01.RegisterUsers.pdb

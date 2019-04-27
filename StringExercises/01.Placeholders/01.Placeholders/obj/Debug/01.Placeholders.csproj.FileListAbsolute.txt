@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\StringExercises\01.Placeholders\01.Placeholders\bin\Debug\01.Placeholders.exe.config
+c:\users\illmate\documents\visual studio 2013\StringExercises\01.Placeholders\01.Placeholders\bin\Debug\01.Placeholders.exe
+c:\users\illmate\documents\visual studio 2013\StringExercises\01.Placeholders\01.Placeholders\bin\Debug\01.Placeholders.pdb
+c:\users\illmate\documents\visual studio 2013\StringExercises\01.Placeholders\01.Placeholders\obj\Debug\01.Placeholders.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\StringExercises\01.Placeholders\01.Placeholders\obj\Debug\01.Placeholders.exe
+c:\users\illmate\documents\visual studio 2013\StringExercises\01.Placeholders\01.Placeholders\obj\Debug\01.Placeholders.pdb

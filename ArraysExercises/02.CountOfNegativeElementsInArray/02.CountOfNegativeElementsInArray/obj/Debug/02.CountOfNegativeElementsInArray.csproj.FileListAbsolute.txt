@@ -1,0 +1,5 @@
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\02.CountOfNegativeElementsInArray\02.CountOfNegativeElementsInArray\bin\Debug\02.CountOfNegativeElementsInArray.exe.config
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\02.CountOfNegativeElementsInArray\02.CountOfNegativeElementsInArray\bin\Debug\02.CountOfNegativeElementsInArray.exe
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\02.CountOfNegativeElementsInArray\02.CountOfNegativeElementsInArray\bin\Debug\02.CountOfNegativeElementsInArray.pdb
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\02.CountOfNegativeElementsInArray\02.CountOfNegativeElementsInArray\obj\Debug\02.CountOfNegativeElementsInArray.exe
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\02.CountOfNegativeElementsInArray\02.CountOfNegativeElementsInArray\obj\Debug\02.CountOfNegativeElementsInArray.pdb

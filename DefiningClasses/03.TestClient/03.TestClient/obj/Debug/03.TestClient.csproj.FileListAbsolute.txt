@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\DefiningClasses\03.TestClient\03.TestClient\bin\Debug\03.TestClient.exe.config

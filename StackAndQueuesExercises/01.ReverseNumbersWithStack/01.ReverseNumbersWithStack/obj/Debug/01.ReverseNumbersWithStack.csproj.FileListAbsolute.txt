@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\StackAndQueuesExercises2\01.ReverseNumbersWithStack\01.ReverseNumbersWithStack\bin\Debug\01.ReverseNumbersWithStack.exe.config

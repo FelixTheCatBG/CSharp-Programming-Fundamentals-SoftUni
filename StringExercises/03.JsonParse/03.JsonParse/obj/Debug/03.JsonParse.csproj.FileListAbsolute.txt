@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\StringExercises\03.JsonParse\03.JsonParse\bin\Debug\03.JsonParse.exe.config
+c:\users\illmate\documents\visual studio 2013\StringExercises\03.JsonParse\03.JsonParse\bin\Debug\03.JsonParse.exe
+c:\users\illmate\documents\visual studio 2013\StringExercises\03.JsonParse\03.JsonParse\bin\Debug\03.JsonParse.pdb
+c:\users\illmate\documents\visual studio 2013\StringExercises\03.JsonParse\03.JsonParse\obj\Debug\03.JsonParse.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\StringExercises\03.JsonParse\03.JsonParse\obj\Debug\03.JsonParse.exe
+c:\users\illmate\documents\visual studio 2013\StringExercises\03.JsonParse\03.JsonParse\obj\Debug\03.JsonParse.pdb

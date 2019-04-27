@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.WormHole\03.WormHole\bin\Debug\03.WormHole.exe.config
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.WormHole\03.WormHole\bin\Debug\03.WormHole.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.WormHole\03.WormHole\bin\Debug\03.WormHole.pdb
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.WormHole\03.WormHole\obj\Debug\03.WormHole.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.WormHole\03.WormHole\obj\Debug\03.WormHole.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\03.WormHole\03.WormHole\obj\Debug\03.WormHole.pdb

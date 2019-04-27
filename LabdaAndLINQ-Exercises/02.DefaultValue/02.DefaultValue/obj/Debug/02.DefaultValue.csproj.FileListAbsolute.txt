@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\02.DefaultValue\02.DefaultValue\bin\Debug\02.DefaultValue.exe.config
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\02.DefaultValue\02.DefaultValue\bin\Debug\02.DefaultValue.exe
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\02.DefaultValue\02.DefaultValue\bin\Debug\02.DefaultValue.pdb
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\02.DefaultValue\02.DefaultValue\obj\Debug\02.DefaultValue.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\02.DefaultValue\02.DefaultValue\obj\Debug\02.DefaultValue.exe
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ-Exercises\02.DefaultValue\02.DefaultValue\obj\Debug\02.DefaultValue.pdb

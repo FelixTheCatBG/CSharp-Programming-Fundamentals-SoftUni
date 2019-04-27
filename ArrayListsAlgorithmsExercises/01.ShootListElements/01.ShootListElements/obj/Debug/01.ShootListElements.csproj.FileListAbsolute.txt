@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ShootListElements\01.ShootListElements\bin\Debug\01.ShootListElements.exe.config
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ShootListElements\01.ShootListElements\bin\Debug\01.ShootListElements.exe
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ShootListElements\01.ShootListElements\bin\Debug\01.ShootListElements.pdb
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ShootListElements\01.ShootListElements\obj\Debug\01.ShootListElements.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ShootListElements\01.ShootListElements\obj\Debug\01.ShootListElements.exe
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\01.ShootListElements\01.ShootListElements\obj\Debug\01.ShootListElements.pdb

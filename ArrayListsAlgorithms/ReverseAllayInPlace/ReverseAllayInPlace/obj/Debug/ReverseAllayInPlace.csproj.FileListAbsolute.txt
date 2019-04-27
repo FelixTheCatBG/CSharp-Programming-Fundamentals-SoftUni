@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms\ReverseAllayInPlace\ReverseAllayInPlace\bin\Debug\ReverseAllayInPlace.exe.config

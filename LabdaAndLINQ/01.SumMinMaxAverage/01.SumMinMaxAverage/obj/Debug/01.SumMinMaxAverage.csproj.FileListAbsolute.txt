@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ\01.SumMinMaxAverage\01.SumMinMaxAverage\bin\Debug\01.SumMinMaxAverage.exe.config
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ\01.SumMinMaxAverage\01.SumMinMaxAverage\bin\Debug\01.SumMinMaxAverage.exe
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ\01.SumMinMaxAverage\01.SumMinMaxAverage\bin\Debug\01.SumMinMaxAverage.pdb
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ\01.SumMinMaxAverage\01.SumMinMaxAverage\obj\Debug\01.SumMinMaxAverage.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ\01.SumMinMaxAverage\01.SumMinMaxAverage\obj\Debug\01.SumMinMaxAverage.exe
+c:\users\illmate\documents\visual studio 2013\LabdaAndLINQ\01.SumMinMaxAverage\01.SumMinMaxAverage\obj\Debug\01.SumMinMaxAverage.pdb

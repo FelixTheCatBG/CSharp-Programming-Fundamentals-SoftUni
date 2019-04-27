@@ -1,0 +1,1 @@
+c:\users\illmate\documents\visual studio 2013\Arrays\OddNumbersAtOddPositions\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.exe.config

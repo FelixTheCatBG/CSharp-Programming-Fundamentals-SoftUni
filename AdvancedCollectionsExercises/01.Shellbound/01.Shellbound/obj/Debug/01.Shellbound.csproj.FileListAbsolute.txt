@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\01.Shellbound\01.Shellbound\bin\Debug\01.Shellbound.exe.config
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\01.Shellbound\01.Shellbound\bin\Debug\01.Shellbound.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\01.Shellbound\01.Shellbound\bin\Debug\01.Shellbound.pdb
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\01.Shellbound\01.Shellbound\obj\Debug\01.Shellbound.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\01.Shellbound\01.Shellbound\obj\Debug\01.Shellbound.exe
+c:\users\illmate\documents\visual studio 2013\AdvancedCollections-MoreEx\01.Shellbound\01.Shellbound\obj\Debug\01.Shellbound.pdb

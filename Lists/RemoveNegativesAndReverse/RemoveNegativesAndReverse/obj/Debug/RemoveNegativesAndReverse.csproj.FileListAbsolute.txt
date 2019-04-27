@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\Lists\RemoveNegativesAndReverse\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe.config
+c:\users\illmate\documents\visual studio 2013\Lists\RemoveNegativesAndReverse\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe
+c:\users\illmate\documents\visual studio 2013\Lists\RemoveNegativesAndReverse\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.pdb
+c:\users\illmate\documents\visual studio 2013\Lists\RemoveNegativesAndReverse\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\Lists\RemoveNegativesAndReverse\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.exe
+c:\users\illmate\documents\visual studio 2013\Lists\RemoveNegativesAndReverse\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.pdb

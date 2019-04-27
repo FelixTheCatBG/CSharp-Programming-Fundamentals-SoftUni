@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\StackAndQueues\04.MatchingBrackets\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.exe.config
+c:\users\illmate\documents\visual studio 2013\StackAndQueues\04.MatchingBrackets\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.exe
+c:\users\illmate\documents\visual studio 2013\StackAndQueues\04.MatchingBrackets\04.MatchingBrackets\bin\Debug\04.MatchingBrackets.pdb
+c:\users\illmate\documents\visual studio 2013\StackAndQueues\04.MatchingBrackets\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\StackAndQueues\04.MatchingBrackets\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.exe
+c:\users\illmate\documents\visual studio 2013\StackAndQueues\04.MatchingBrackets\04.MatchingBrackets\obj\Debug\04.MatchingBrackets.pdb

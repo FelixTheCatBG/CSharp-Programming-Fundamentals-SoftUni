@@ -1,0 +1,5 @@
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\CountOfGivenElementInArray\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.exe.config
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\CountOfGivenElementInArray\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.exe
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\CountOfGivenElementInArray\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.pdb
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\CountOfGivenElementInArray\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.exe
+c:\users\illmate\documents\visual studio 2013\ArraysExercises\CountOfGivenElementInArray\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.pdb

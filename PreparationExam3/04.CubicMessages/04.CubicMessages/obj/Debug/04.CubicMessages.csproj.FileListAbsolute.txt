@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.CubicMessages\04.CubicMessages\bin\Debug\04.CubicMessages.exe.config
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.CubicMessages\04.CubicMessages\bin\Debug\04.CubicMessages.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.CubicMessages\04.CubicMessages\bin\Debug\04.CubicMessages.pdb
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.CubicMessages\04.CubicMessages\obj\Debug\04.CubicMessages.csprojResolveAssemblyReference.cache
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.CubicMessages\04.CubicMessages\obj\Debug\04.CubicMessages.exe
+c:\users\illmate\documents\visual studio 2013\PreparationExam3\04.CubicMessages\04.CubicMessages\obj\Debug\04.CubicMessages.pdb

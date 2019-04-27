@@ -1,0 +1,6 @@
+c:\users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\05.DecodeRadioFrequencies\05.DecodeRadioFrequencies\bin\Debug\05.DecodeRadioFrequencies.exe.config
+C:\Users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\05.DecodeRadioFrequencies\05.DecodeRadioFrequencies\bin\Debug\05.DecodeRadioFrequencies.exe
+C:\Users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\05.DecodeRadioFrequencies\05.DecodeRadioFrequencies\bin\Debug\05.DecodeRadioFrequencies.pdb
+C:\Users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\05.DecodeRadioFrequencies\05.DecodeRadioFrequencies\obj\Debug\05.DecodeRadioFrequencies.csprojResolveAssemblyReference.cache
+C:\Users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\05.DecodeRadioFrequencies\05.DecodeRadioFrequencies\obj\Debug\05.DecodeRadioFrequencies.exe
+C:\Users\illmate\documents\visual studio 2013\ArrayListsAlgoritms-Exercises\05.DecodeRadioFrequencies\05.DecodeRadioFrequencies\obj\Debug\05.DecodeRadioFrequencies.pdb
